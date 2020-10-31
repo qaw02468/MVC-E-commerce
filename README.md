@@ -1,5 +1,5 @@
 # MVC-E-commerce
-Use MVC To do a E-commerce of text.
+Use MVC to do a E-commerce of text.Can register and login user,and buy something.
 ![](https://i.imgur.com/TeBodhG.jpg)
 
 UML
